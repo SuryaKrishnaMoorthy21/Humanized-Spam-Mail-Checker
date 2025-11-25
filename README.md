@@ -1,4 +1,4 @@
-# Humanized-Spam-Mail-Checker
+Spam-Mail-Checker
 # 🧠 AI-Powered Spam Mail Classifier with GUI
 
 This project is a simple, AI-powered email spam detector with a humanized design and a user-friendly GUI made using **Tkinter**. Built to help users instantly check if a message is spam or safe.
